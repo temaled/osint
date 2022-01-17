@@ -1,3 +1,6 @@
 [submodule "faceboook-scraper-backend"]
 	path = faceboook-scraper-backend
 	url = https://github.com/jemxz/faceboook-scraper-backend.git
+[submodule "twitter-scraper"]
+	path = twitter-scraper
+	url = https://github.com/Eyosiyas8/twitter-scraper
