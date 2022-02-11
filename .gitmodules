@@ -25,3 +25,6 @@
 [submodule "Twitter/twitter-scraper"]
 	path = Twitter/twitter-scraper
 	url = https://github.com/Eyosiyas8/twitter-scraper.git
+[submodule "YouTube/youtube_Scrape_Api"]
+	path = YouTube/youtube_Scrape_Api
+	url = https://github.com/kalkida/youtube_Scrape_Api.git
