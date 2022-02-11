@@ -7,3 +7,21 @@
 [submodule "faceboook/facebook-scraper-backend-profile"]
 	path = faceboook/facebook-scraper-backend-profile
 	url = https://github.com/jemxz/facebook-scraper-backend-profile.git
+[submodule "Facebook/facebook-scraper-backend-profile"]
+	path = Facebook/facebook-scraper-backend-profile
+	url = https://github.com/jemxz/facebook-scraper-backend-profile.git
+[submodule "Facebook/faceboook-scraper-backend"]
+	path = Facebook/faceboook-scraper-backend
+	url = https://github.com/jemxz/faceboook-scraper-backend.git
+[submodule "ScraperAPI/ScraperAPI"]
+	path = ScraperAPI/ScraperAPI
+	url = https://github.com/temaledegn/ScraperAPI.git
+[submodule "ScraperClient/scraper-client"]
+	path = ScraperClient/scraper-client
+	url = https://github.com/temaledegn/scraper-client.git
+[submodule "Telegram/Telegram"]
+	path = Telegram/Telegram
+	url = https://github.com/temaledegn/Telegram.git
+[submodule "Twitter/twitter-scraper"]
+	path = Twitter/twitter-scraper
+	url = https://github.com/Eyosiyas8/twitter-scraper.git
