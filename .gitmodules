@@ -4,3 +4,6 @@
 [submodule "twitter-scraper"]
 	path = twitter-scraper
 	url = https://github.com/Eyosiyas8/twitter-scraper
+[submodule "faceboook/facebook-scraper-backend-profile"]
+	path = faceboook/facebook-scraper-backend-profile
+	url = https://github.com/jemxz/facebook-scraper-backend-profile.git
